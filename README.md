@@ -6,6 +6,8 @@
 
 React 19 + TypeScript + Vite, วาดฉากด้วย SVG, ทดสอบด้วย Vitest
 
+**เล่นได้ที่:** https://nopekka.github.io/hanoi-study-timer/ (deploy อัตโนมัติด้วย GitHub Actions ทุกครั้งที่ push ขึ้น `main` — รันเทสต์ก่อน build)
+
 ## วิธีรัน
 
 ต้องมี Node.js 20 ขึ้นไป
